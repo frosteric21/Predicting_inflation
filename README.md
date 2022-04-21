@@ -1,4 +1,4 @@
-# Project_2
+# Inflation Prediction
 Project 2 with jason, brendan, eric and niall
 We used an LSTM Model for a GDP and Inflation Predictor for the 5 largest economies in the world being, China, Unites States, Japan, Germany and India.
 This was a two layer LSTM Model.
